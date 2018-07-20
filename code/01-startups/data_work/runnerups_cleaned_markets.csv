@@ -1,0 +1,179 @@
+raised_curr,raised_amnt,country,state,company_size,joined,location,market,name,pitch,raised,stage,website
+$,916500000,United States,New York,201-500,2013-03-01,New York City,Advertising,Moat,,"$916,500,000",Acquired,moat.com
+$,895000000,United States,New York,-,2012-01-01,New York City,Advertising,Right Media,,"$895,000,000",Acquired,rightmedia.com
+$,797200000,United States,California,-,2012-01-01,San Mateo,Advertising,Admob,,"$797,200,000",Acquired,admob.com
+$,690200000,United States,California,201-500,2012-03-01,San Francisco,Advertising,BrightRoll,BrightRoll is the largest independent video ad platform for reaching audiences at scale.,"$690,200,000",Acquired,brightroll.com
+$,649000000,United States,New York,-,2012-01-01,New York City,Advertising,24/7 Real Media,,"$649,000,000",Acquired,247realmedia.com
+$,618500000,United States,California,-,2011-09-01,San Francisco,Advertising,MoPub,Mobile monetization platform,"$618,500,000",Acquired,mopub.com
+$,555000000,United States,New York,-,2012-01-01,New York City,Advertising,Mediamind,,"$555,000,000",Acquired,mediamind.com
+$,537000000,United States,California,51-200,2013-03-01,San Francisco,Advertising,Ticketfly,Re-imagining live events,"$537,000,000",Acquired,ticketfly.com
+$,500000000,,,-,2012-01-01,-,Advertising,AdForce,,"$500,000,000",Acquired,-
+$,990500000,India,Maharashtra,-,2012-01-01,Mumbai,E-Commerce,Olacabs,,"$990,500,000",,olacabs.com
+$,910000000,United States,California,-,2012-01-01,San Francisco,E-Commerce,LoopNet,,"$910,000,000",Acquired,loopnet.com
+$,888100000,China,Beijing,-,2012-01-01,Beijing,E-Commerce,Qunar.com,,"$888,100,000",,qunar.com
+$,869500000,United States,California,201-500,2012-10-01,San Francisco,E-Commerce,Braintree,,"$869,500,000",Acquired,braintreepayments.com
+$,853286000,United States,California,-,2012-01-01,Pleasanton,E-Commerce,IronPlanet,,"$853,286,000",Acquired,ironplanet.com.au
+$,800000000,United Kingdom,England,-,2014-03-01,Cambridge,E-Commerce,ITA Software,,"$800,000,000",Acquired,itasoftware.com
+$,800000000,,,-,2015-09-01,-,E-Commerce,dianping.com,,"$800,000,000",,-
+$,763600000,United States,California,1001-5000,2013-03-01,Palo Alto,E-Commerce,Houzz,,"$763,600,000",Series E,houzz.com
+$,756700000,United States,California,501-1000,2013-09-01,San Francisco,E-Commerce,DoorDash,On-demand delivery empowering local economies (YC S13),"$756,700,000",Series D,doordash.com
+$,750000000,,,-,2012-07-01,-,E-Commerce,Trade Me,,"$750,000,000",Acquired,-
+$,750000000,,,-,2016-09-01,-,E-Commerce,Grab,,"$750,000,000",Series F,
+$,748000000,United States,California,501-1000,2013-08-01,Los Angeles,E-Commerce,Compass,Discover home trends in your market,"$748,000,000",Series E,compass.com
+$,741500000,United States,California,1001-5000,2012-05-01,Cerritos,E-Commerce,Farfetch,,"$741,500,000",,farfetch.com
+$,700000000,,,-,2015-04-01,-,E-Commerce,MeiTuan,,"$700,000,000",Series D,-
+$,700000000,,,-,2016-06-01,-,E-Commerce,Yidao Yongche,,"$700,000,000",,
+$,700000000,,,-,2012-01-01,-,E-Commerce,MySimon,,"$700,000,000",Acquired,-
+$,692000000,,,-,2016-08-01,-,E-Commerce,Intime Retail,"Retail department store, shopping, e-commerce.","$692,000,000",,intime.com.cn
+$,680000000,India,,1-10,2016-01-01,India,E-Commerce,Paytm Coupons,Coupons Website,"$680,000,000",,paytm.coupons
+$,673600000,United States,California,-,2012-01-01,Los Angeles,E-Commerce,Jamdat Mobile,,"$673,600,000",Acquired,eamobile.com
+$,652000000,,,1001-5000,2014-07-01,Africa,E-Commerce,Africa Internet Group,Incubator of African Startups specialized in e-commerce,"$652,000,000",,africainternetgroup.com
+$,644950000,United States,California,201-500,2014-06-01,San Francisco,E-Commerce,Opendoor,A better way to buy and sell homes,"$644,950,000",,opendoor.com
+$,640000000,United States,California,501-1000,2012-01-01,El Segundo,E-Commerce,Internet Brands,,"$640,000,000",Acquired,internetdrands.com
+$,637900000,United States,Colorado,1-10,2015-10-01,Denver,E-Commerce,Xactly,Empowering Companies to Incent Right,"$637,900,000",Acquired,xactlycorp.com
+$,634500000,United States,California,-,2012-01-01,Los Angeles,E-Commerce,Shopzilla,,"$634,500,000",Acquired,shopzilla.com
+$,630000000,,,-,2012-01-01,-,E-Commerce,Sandpiper Networks,,"$630,000,000",Acquired,-
+$,620000000,United States,California,-,2012-01-01,South San Francisco,E-Commerce,Shopping.com,,"$620,000,000",Acquired,shopping.com
+$,590500000,United States,California,1001-5000,2012-01-01,San Francisco,E-Commerce,Square,Economic Empowerment,"$590,500,000",IPO,squareup.com
+$,589000000,Turkey,Istanbul,201-500,2016-01-01,Istanbul,E-Commerce,YemekSepeti.com,Turkey's first online food ordering site.,"$589,000,000",Acquired,yemeksepeti.com
+$,583600000,Canada,British Columbia,501-1000,2013-08-01,Vancouver,E-Commerce,Zenefits,"Introducing the People Platform, because we're in it together.","$583,600,000",Series C,zenefits.com
+$,575000000,United States,New Jersey,201-500,2015-06-01,Hoboken,E-Commerce,Jet.com,members-only shopping club w/best prices on more than 10M products,"$575,000,000",,jet.com
+$,574800000,United States,California,201-500,2012-11-01,San Francisco,E-Commerce,Instacart,Groceries and home essentials delivered from local stores in 1 hour.,"$574,800,000",Series E,instacart.com
+$,540000000,United States,New Jersey,-,2012-01-01,Jersey City,E-Commerce,Quidsi,,"$540,000,000",Acquired,-
+$,536000000,United States,New York,-,2012-01-01,New York City,E-Commerce,Gilt Groupe,Top designers up to 60% off,"$536,000,000",,gilt.com
+$,525000000,United States,Illinois,-,2012-01-01,Chicago,E-Commerce,MovieFone,,"$525,000,000",Acquired,moviefone.com
+$,514162000,India,Karnataka,501-1000,2014-04-01,Bengaluru,E-Commerce,Myntra (now part of Flipkart),,"$514,162,000",,myntra.com
+$,512951458,United States,Texas,-,2012-01-01,Austin,E-Commerce,HomeAway,,"$512,951,458",-,HomeAway.com
+$,507000000,,,-,2015-09-01,-,E-Commerce,Global Fashion Group,,"$507,000,000",,-
+$,965700000,United States,Virginia,-,2013-03-01,Arlington,Energy,OPOWER,,"$965,700,000",IPO,opower.com
+$,940000000,United States,California,-,2012-01-01,San Jose,Energy,Bloom Energy,,"$940,000,000",,bloomenergy.com
+$,880860000,United States,Massachusetts,-,2012-01-01,Westborough,Energy,A123 Systems,,"$880,860,000",IPO,a123systems.com
+$,845000000,United States,California,-,2012-01-01,Oakland,Energy,Brightsource Energy,,"$845,000,000",-,brightsourceenergy.com
+$,840800000,United States,Maryland,-,2012-01-01,Beltsville,Energy,SunEdison,,"$840,800,000",-,sunedison.com
+$,723000000,United States,California,-,2012-01-01,Palo Alto,Energy,Better Place,,"$723,000,000",-,betterplace.com
+$,562000000,United Kingdom,England,-,2012-05-01,Cambridge,Energy,GreatPoint Energy,,"$562,000,000",Series A,greatpointenergy.com
+$,522000000,United States,Massachusetts,-,2013-05-01,Boston,Energy,First Wind,,"$522,000,000",-,firstwind.com
+$,510000000,United States,Colorado,-,2012-01-01,Loveland,Energy,Abound Solar,,"$510,000,000",,abound.com
+$,500000000,,,-,2012-02-01,-,Energy,Altergaz,,"$500,000,000",Acquired,-
+$,989800000,United States,California,-,2017-02-01,San Jose,Finance,Intacct,,"$989,800,000",Acquired,intacct.com
+$,980000000,,,-,2012-01-01,-,Finance,Paytm,,"$980,000,000",,-
+$,972400000,,,-,2012-01-01,-,Finance,Bill Me Later,,"$972,400,000",Acquired,billmelater.com
+$,931300000,,,-,2016-10-01,-,Finance,ZhongAn,Online insurance,"$931,300,000",,zhongan.com
+$,931300000,,,-,2016-08-01,-,Finance,Zhong,,"$931,300,000",,
+$,775000000,Monaco,,11-50,2016-01-01,Monaco,Finance,Rhodivm Holdings,UHNWI Private Equity Asset Fund,"$775,000,000",Series A,rhodivm.com
+$,727500000,United States,Arizona,501-1000,2014-06-01,Tempe,Finance,Oscar Insurance,"Leveraging technology and data to make insurance simple, intuitive, and human.","$727,500,000",,hioscar.com
+$,725000000,United States,Missouri,-,2014-08-01,Westport,Finance,Compass Diversified Holdings,,"$725,000,000",-,compasstrust.com
+$,705000000,,,-,2013-02-01,-,Finance,Evestment,,"$705,000,000",Acquired,-
+$,600363500,United States,Georgia,-,2012-01-01,Atlanta,Finance,Kabbage,,"$600,363,500",Series E,kabbage.com
+$,583900000,Germany,Hamburg,51-200,2012-11-01,Hamburg,Finance,Kreditech,Consumer Finance Technology Company,"$583,900,000",,kreditech.com
+$,561000000,United States,California,,2012-08-01,San Francisco,Finance,Credit Karma,Consumer Financial Services Platform,"$561,000,000",,creditkarma.com
+$,539000000,United States,California,51-200,2013-07-01,Palo Alto,Finance,Robinhood,Democratizing America’s financial system,"$539,000,000",Series D,robinhood.com
+$,980200000,United States,Washington,-,2012-01-01,Seattle,Media,Big Fish Games,,"$980,200,000",Acquired,bigfishgames.com
+$,946300000,United States,New York,-,2012-10-01,New York City,Media,BuzzFeed,First True Social News Organization,"$946,300,000",,buzzfeed.com
+$,890000000,United States,Illinois,-,2012-01-01,Naperville,Media,Tellabs,,"$890,000,000",Acquired,tellabs.com
+$,866513000,United States,California,-,2012-01-01,San Francisco,Media,Zynga,Play With Your Friends.,"$866,513,000",-,zynga.com
+$,849400000,United States,Massachusetts,11-50,2012-02-01,Boston,Media,DraftKings,Single-Day Fantasy Sports Contests for Cash,"$849,400,000",,draftkings.com
+$,730000000,United States,New York,-,2015-04-01,Brooklyn,Media,VICE Media,,"$730,000,000",,vice.com
+$,700000000,United States,California,-,2012-01-01,San Francisco,Media,IGN Entertainment,,"$700,000,000",Acquired,corp.ign.com
+$,600000000,United States,New York,-,2012-01-01,New York City,Media,iVillage,,"$600,000,000",Acquired,ivillage.com
+$,585800000,United States,Maryland,-,2014-01-01,Rockville,Media,ZeniMax Online Studios,,"$585,800,000",-,-
+$,525000000,,,-,2012-01-01,-,Media,Primedia,,"$525,000,000",Acquired,primedia.com
+$,524639534,United States,California,201-500,2016-03-01,Santa Monica,Media,Leaf Group,,"$524,639,534",-,leafgroup.com
+$,519000000,,,-,2015-10-01,-,Media,Oasis Games,,"$519,000,000",Acquired,-
+$,500000000,,,-,2014-07-01,-,Media,Casa Editorial El Tiempo,,"$500,000,000",Acquired,-
+$,500000000,United States,Washington,201-500,2014-12-01,Seattle,Media,Double Down Interactive,The wildly popular DoubleDown Casino™ found on Facebook,"$500,000,000",Seed,doubledowninteractive.com
+$,849000000,,,-,2014-08-01,-,Hardware,Esat Telecom,,"$849,000,000",Acquired,-
+$,824750000,United States,California,-,2012-01-01,Milpitas,Hardware,Fireeye,Complete Protection Against Advanced Malware,"$824,750,000",IPO,fireeye.com
+$,820000000,,,-,2012-01-01,-,Hardware,Compellent Technologies,,"$820,000,000",Acquired,compellent.com
+$,814677153,United States,California,-,2012-01-01,Milpitas,Hardware,Virident Systems,,"$814,677,153",Acquired,virident.com
+$,807000000,United States,Texas,-,2012-01-01,Houston,Hardware,BladeLogic,,"$807,000,000",Acquired,bladelogic.com
+$,800000000,,,-,2012-01-01,-,Hardware,Inphonic,,"$800,000,000",IPO,-
+$,800000000,United States,California,-,2012-05-01,Santa Clara,Hardware,Lightlogic,,"$800,000,000",Acquired,-
+$,778629000,United States,California,201-500,2014-04-01,San Francisco,Hardware,Jawbone,World-leader in consumer technology and wearable devices.,"$778,629,000",,jawbone.com
+$,743000000,Spain,Community of Madrid,-,2012-01-01,Madrid,Hardware,Telefonica,,"$743,000,000",-,telefonica.com
+$,725000000,United States,Pennsylvania,-,2012-01-01,Philadelphia,Hardware,Comcast,,"$725,000,000",-,comcast.com
+$,722000000,,,-,2014-09-01,-,Hardware,vIPtela,,"$722,000,000",Acquired,-
+$,681800000,United States,California,-,2013-06-01,Cupertino,Hardware,Seagate Technology,,"$681,800,000",IPO,seagate.com
+$,602800000,United States,California,51-200,2011-07-01,San Francisco,Hardware,Dropcam,Watch the things you love with Dropcam wi-fi video cameras.,"$602,800,000",Acquired,dropcam.com
+$,590000000,,,-,2016-10-01,-,Hardware,MEIZU,Consumer Electronics,"$590,000,000",,meizu.com
+$,581000000,United States,Illinois,-,2013-02-01,Chicago Heights,Hardware,Initiate Systems,,"$581,000,000",Acquired,initiatesystems.com
+$,574000000,United States,Tennessee,-,2012-01-01,Bristol,Hardware,Icera,,"$574,000,000",Acquired,icerasemi.com
+$,564059999,United States,California,,2012-04-01,Los Altos,Hardware,Box,,"$564,059,999",,box.com
+$,534856500,United States,California,-,2012-02-01,Mountain View,Hardware,Pure Storage,Data Storage Cloud company,"$534,856,500",,purestorage.com
+$,515000000,Switzerland,Zurich,-,2012-01-01,Kloten,Hardware,United Mobile,,"$515,000,000",Series B,united-mobile.com
+$,823000000,United States,California,,2012-01-01,Palo Alto,Mobility,Tesla Motors,"Electric cars, giant batteries and solar","$823,000,000",IPO,tesla.com
+$,820000000,,,-,2016-08-01,-,Mobility,Didi Chuxing,,"$820,000,000",,-
+$,806000000,United States,California,-,2012-01-01,Mountain View,Mobility,Tellme,,"$806,000,000",Acquired,tellme.com
+$,786600000,United States,Massachusetts,201-500,2012-01-01,North Reading,Mobility,Kiva Systems,Game-changing automation technology for distribution centers,"$786,600,000",Series A,kivasystems.com
+$,730000000,Singapore,,-,2015-03-01,Singapore,Mobility,GrabTaxi,"Safe, convenient, and reliable taxi rides for all","$730,000,000",,grabtaxi.com
+$,600000000,,,-,2016-10-01,-,Mobility,Kuaidi Dache,Car Service Company,"$600,000,000",,vvipone.com
+$,560000000,Germany,Berlin,1001-5000,2016-02-01,Berlin,Mobility,Careem,Revolutionising transport through the power of technology!,"$560,000,000",Series E,careem.com
+$,956500000,United States,Massachusetts,-,2012-01-01,Waltham,Health,Avila Therapeutics,,"$956,500,000",-,avilatx.com
+$,869900000,United States,Pennsylvania,-,2012-01-01,Philadelphia,Health,Avid Radiopharmaceuticals,,"$869,900,000",Acquired,avidrp.com
+$,722989320,United States,New York,-,2012-01-01,New York City,Health,Everyday Health,,"$722,989,320",Acquired,corporate.everydayhealth.com
+$,710000000,United Kingdom,England,-,2014-07-01,Cambridge,Health,Alnylam Pharmaceuticals,,"$710,000,000",-,alnylam.com
+$,710000000,United States,California,-,2012-01-01,Irvine,Health,Gateway,,"$710,000,000",Acquired,gateway.com
+$,690300000,United States,California,-,2014-08-01,Hayward,Health,Intarcia Therapeutics,,"$690,300,000",Series E,intarcia.com
+$,685000000,United States,Massachusetts,-,2012-01-01,Waltham,Health,Phase Forward,,"$685,000,000",Acquired,phaseforward.com
+$,674600000,United Kingdom,England,-,2014-03-01,Cambridge,Health,Moderna Therapeutics,,"$674,600,000",,modernatx.com
+$,600400000,United States,Massachusetts,5000+,2012-06-01,Boston,Health,Vertex Pharmaceuticals,creates new possibilities in medicine to cure diseases and improve,"$600,400,000",-,vrtx.com
+$,573000000,Australia,Queensland,-,2012-01-01,Brisbane,Health,Bipar Sciences,,"$573,000,000",Acquired,biparsciences.com
+$,550000000,United States,California,-,2012-09-01,Redwood City,Health,Guardant Health,,"$550,000,000",Series E,guardanthealth.com
+$,520100000,United States,Kansas,-,2013-12-01,Mason,Health,Assurex Health,,"$520,100,000",,assurexhealth.com
+$,505200000,United States,Massachusetts,-,2012-01-01,Beverly,Health,SmartCells,,"$505,200,000",-,smartinsulin.com
+$,503400000,United Kingdom,England,-,2014-08-01,Cambridge,Health,Visterra,,"$503,400,000",Acquired,visterrainc.com
+$,500000000,United States,California,-,2013-11-01,Corona,Health,Watson Pharmaceuticals,,"$500,000,000",-,watson.com
+$,553000000,United States,Illinois,51-200,2017-03-01,Chicago,Health,YgEia3,Scientific Wellness testing.,"$553,000,000",Acquired,ygeia3.com
+$,970000000,,,-,2015-03-01,-,Social,twitch.com,,"$970,000,000",Acquired,-
+$,934700000,United States,District of Columbia,-,2012-07-01,Washington DC,Social,LivingSocial,We ♥ adding surprise to your calendar.,"$934,700,000",Acquired,livingsocial.com
+$,875000000,United States,California,-,2014-05-01,San Francisco,Social,Bebo,Share the Real You,"$875,000,000",Acquired,bebo.com
+$,870000000,United States,New York,-,2012-01-01,New York City,Social,Buddy Media,The Social Enterprise Marketing Suite,"$870,000,000",Acquired,buddymedia.com
+$,658200000,United States,California,-,2012-01-01,San Francisco,Social,Pure Digital Technologies,,"$658,200,000",Acquired,theflip.com
+$,551200000,United States,Florida,-,2013-10-01,Boca Raton,Social,FriendFinder Networks,,"$551,200,000",Seed,ffn.com
+$,526000000,United States,California,201-500,2015-03-01,Los Angeles,Social,Maker Studios,TV meets Youtube,"$526,000,000",,makerstudios.com
+$,525000000,United States,California,-,2012-01-01,Los Angeles,Social,BizRate,,"$525,000,000",Acquired,bizrate.com
+$,500100000,United States,California,,2015-01-01,San Francisco,Social,Reddit,What's new and popular online,"$500,100,000",,reddit.com
+$,735000000,,,-,2012-01-01,-,Social,P1.CN,,"$735,000,000",Acquired,-
+$,734000000,,,-,2012-08-01,-,Social,Renren.com,,"$734,000,000",IPO,-
+$,604800000,United States,California,51-200,2012-12-01,San Francisco,Social,Crunchyroll,Hulu for Japanese Anime/Manga,"$604,800,000",,crunchyroll.com
+$,565500000,United States,Texas,-,2012-01-01,Plano,Social,Genband,,"$565,500,000",-,genband.com
+$,999000000,United States,California,1001-5000,2015-11-01,Santa Monica,Software,Meitu,Leading mobile tech company,"$999,000,000",IPO,corp.meitu.com
+$,993660000,Greece,,11-50,2015-01-01,Athens,Software,Epignosis,eLearning solutions,"$993,660,000",Seed,epignosishq.com
+$,884000000,United States,California,-,2012-01-01,Alameda,Software,Wind River,,"$884,000,000",Acquired,windriver.com
+$,830000000,United States,Virginia,-,2012-01-01,Abingdon,Software,Sophos,,"$830,000,000",Acquired,sophos.com
+$,830000000,,,-,2012-04-01,-,Software,IronPort,Eradicating sendmail from the face of the earth.,"$830,000,000",Acquired,ironport.com
+$,820000000,United States,California,11-50,2016-04-01,San Francisco,Software,VIPKID,The leading online education platform for language immersion,"$820,000,000",Series D,vipkid.com.cn
+$,816200000,China,,-,2012-01-01,China,Software,Baidu,The Internet in China,"$816,200,000",,baidu.com
+$,811000000,,,-,2016-07-01,-,Software,Encr8 Tor Technologies Sdn Bhd,,"$811,000,000",Acquired,-
+$,810000000,,,-,2012-01-01,-,Software,Trustwave,,"$810,000,000",Acquired,trustwave.com
+$,792100000,United States,California,-,2012-01-01,Palo Alto,Software,Apigee,Free and Enterprise API Management and Infrastructure.,"$792,100,000",Acquired,apigee.com
+$,775000000,United States,California,-,2012-01-01,San Jose,Software,Interwoven,,"$775,000,000",Acquired,interwoven.com
+$,772900000,,,-,2012-01-01,-,Software,SafeNet,,"$772,900,000",-,safenet-inc.com
+$,754000000,United States,Virginia,-,2016-02-01,Arlington,Software,Applied Predictive Technologies,,"$754,000,000",,predictivetechnologies.com
+$,752000000,United States,California,-,2012-01-01,Oakland,Software,iParadigms,,"$752,000,000",Acquired,iparadigms.com
+$,750000000,United States,Texas,-,2012-01-01,Houston,Software,BMC Software,,"$750,000,000",-,bmc.com
+$,728260328,United States,Kansas,201-500,2015-06-01,Burlington,Software,Veracode,Enterprise Application Security,"$728,260,328",Acquired,veracode.com
+$,720000000,,,-,2012-01-01,-,Software,Sonic Solutions,,"$720,000,000",Acquired,sonic.com
+$,717000000,United States,California,-,2012-01-01,San Jose,Software,SonicWALL,,"$717,000,000",Acquired,sonicwall.com
+$,713000000,,,-,2015-07-01,-,Software,McData,,"$713,000,000",Acquired,-
+$,695000000,United States,Massachusetts,-,2012-01-01,Gloucester,Software,MessageLabs,,"$695,000,000",Acquired,messagelabs.com
+$,686800000,United States,California,-,2012-01-01,Oakland,Software,GT Nexus,,"$686,800,000",Acquired,gtnexus.com
+$,686260000,Canada,British Columbia,201-500,2012-09-01,Vancouver,Software,Cisco Umbrella,"Cloud-delivered security on any device, anywhere.","$686,260,000",Acquired,umbrella.cisco.com
+$,625000000,United States,California,-,2012-01-01,San Carlos,Software,Postini,,"$625,000,000",Acquired,postini.com
+$,618300000,United States,California,-,2012-01-01,Palo Alto,Software,Danger,,"$618,300,000",Acquired,danger.com
+$,618000000,United States,Colorado,-,2012-01-01,Englewood,Software,WildBlue,,"$618,000,000",Acquired,wildblue.com
+$,604000000,United States,Texas,-,2012-01-01,Dallas,Software,I2 Technologies,,"$604,000,000",Acquired,i2.com
+$,596500000,United States,California,501-1000,2012-10-01,San Francisco,Software,DocuSign,,"$596,500,000",Series E,docusign.com
+$,586000000,,,-,2014-05-01,-,Software,Sina Weibo,,"$586,000,000",,us.weibo.com
+$,575200000,China,Beijing,-,2014-07-01,Beijing,Software,Qihoo 360 Technology,,"$575,200,000",Series B,360.cn
+$,560800000,United States,Virginia,-,2012-01-01,Herndon,Software,Network Solutions,,"$560,800,000",Acquired,networksolutions.com
+$,555370000,United States,California,11-50,2012-08-01,San Francisco,Software,Loggly,Cloud-based log management,"$555,370,000",Acquired,loggly.com
+$,539500000,United States,Indiana,-,2012-01-01,Indianapolis,Software,Aprimo,,"$539,500,000",Acquired,aprimo.com
+$,538000000,United States,California,-,2012-01-01,Palo Alto,Software,XenSource,,"$538,000,000",Acquired,-
+$,530000000,United States,Massachusetts,-,2012-01-01,Chelmsford,Software,Airvana,,"$530,000,000",Acquired,airvana.com
+$,528000000,United States,California,-,2012-01-01,Los Angeles,Software,Marketshare,,"$528,000,000",Acquired,marketshare.com
+$,520000000,United Kingdom,England,201-500,2013-11-01,London,Software,Improbable,,"$520,000,000",Series B,improbable.io
+$,500000000,United States,California,-,2017-11-01,Mountain View,Software,Symantec,,"$500,000,000",,symantec.com
+$,500000000,,,-,2013-08-01,-,Software,Deepmind Technologies,,"$500,000,000",Acquired,-
+$,500000000,United States,California,-,2012-01-01,Mountain View,Software,Frame Technology,,"$500,000,000",Acquired,-
+$,680000000,United Kingdom,England,201-500,2014-05-01,London,E-Commerce,Momondo Group,Global online travel search & inspiration network,"$680,000,000",,momondogroup.com

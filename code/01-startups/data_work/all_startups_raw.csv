@@ -1,0 +1,418 @@
+,company_size,joined,location,market,name,pitch,raised,stage,website
+0,-,Jan ’12,Santa Clara,Computers,Sun Microsystems,,"$7,400,000,000",Acquired,sun.com
+1,,Jan ’12,San Francisco,File Sharing,Dropbox,"Simple, fast sharing","$1,007,215,000",,dropbox.com
+2,201-500,Mar ’12,San Francisco,Mobile Advertising,BrightRoll,BrightRoll is the largest independent video ad platform for reaching audiences at scale.,"$690,200,000",Acquired,brightroll.com
+3,-,Jan ’12,New York City,Social Media Marketing,Buddy Media,The Social Enterprise Marketing Suite,"$870,000,000",Acquired,buddymedia.com
+4,-,Jan ’12,San Carlos,Curated Web,Postini,,"$625,000,000",Acquired,postini.com
+5,51-200,Dec ’12,San Francisco,Video Streaming,Crunchyroll,Hulu for Japanese Anime/Manga,"$604,800,000",,crunchyroll.com
+6,-,Apr ’12,-,-,IronPort,Eradicating sendmail from the face of the earth.,"$830,000,000",Acquired,ironport.com
+7,,Jan ’13,New York City,Postal and Courier Services,Tumblr,Follow the World's Creators,"$1,225,250,000",Acquired,tumblr.com
+8,-,Jan ’12,Sunnyvale,Software,Opsware,,"$1,786,000,000",Acquired,opsware.com
+9,-,Mar ’13,Arlington,Energy Efficiency,OPOWER,,"$965,700,000",IPO,opower.com
+10,-,Oct ’12,New York City,News,BuzzFeed,First True Social News Organization,"$946,300,000",,buzzfeed.com
+11,-,Jan ’12,San Mateo,Construction,Solarcity,,"$3,322,999,992",Acquired,solarcity.com
+12,1001-5000,Jan ’14,San Francisco,Software,AppDynamics,,"$4,014,500,000",Acquired,appdynamics.com
+13,-,May ’14,San Francisco,Social Network Media,Bebo,Share the Real You,"$875,000,000",Acquired,bebo.com
+14,-,Jan ’12,San Mateo,Mobile Advertising,Admob,,"$797,200,000",Acquired,admob.com
+15,1001-5000,Jan ’12,San Francisco,Mobile Payments,Square,Economic Empowerment,"$590,500,000",IPO,squareup.com
+16,,Apr ’12,San Francisco,Networking,Yammer,Where teamwork happens,"$1,342,000,000",Acquired,yammer.com
+17,-,Jun ’13,San Francisco,Technology,Trulia,"Redefine the home search experience, change the way real estate pro's build their business","$3,755,100,000",Acquired,trulia.com
+18,51-200,Jul ’11,San Francisco,Consumer Electronics,Dropcam,Watch the things you love with Dropcam wi-fi video cameras.,"$602,800,000",Acquired,dropcam.com
+19,5000+,Jun ’10,San Francisco,Technology,Uber,The better way to get there,"$12,252,450,000",,uber.com
+20,501-1000,Nov ’11,San Francisco,Consumer Lending,SoFi,"You’ve got money, career, and relationship goals. We’ll help you achieve them.","$1,712,200,000",Series D,sofi.com
+21,-,Jan ’12,Mountain View,News,Netscape,,"$4,200,000,000",Acquired,netscape.aol.com
+22,201-500,Apr ’14,San Francisco,Audio,Jawbone,World-leader in consumer technology and wearable devices.,"$778,629,000",,jawbone.com
+23,-,Oct ’16,-,-,StemCentRx,Biotechnology Company,"$10,473,500,000",Series F,stemcentrx.com
+24,,Jan ’15,San Francisco,Social News,Reddit,What's new and popular online,"$500,100,000",,reddit.com
+25,-,Jan ’12,Helsinki,Mobile Games,Supercell,,"$3,272,000,000",Acquired,supercell.net
+26,-,Mar ’12,Cambridge,Pharmaceuticals,Sirtris Pharmaceuticals,,"$1,522,000,000",Acquired,sirtrispharma.com
+27,201-500,Mar ’15,Los Angeles,Content,Maker Studios,TV meets Youtube,"$526,000,000",,makerstudios.com
+28,,Aug ’12,San Francisco,Financial Services,Credit Karma,Consumer Financial Services Platform,"$561,000,000",,creditkarma.com
+29,201-500,Nov ’12,San Francisco,Groceries,Instacart,Groceries and home essentials delivered from local stores in 1 hour.,"$574,800,000",Series E,instacart.com
+30,,Sep ’11,Santa Monica,Beauty,Dollar Shave Club,Awesome razors sent right to your door for a few bucks a month.,"$1,147,800,000",Acquired,DollarShaveClub.com
+31,-,Sep ’11,San Francisco,Mobile Advertising,MoPub,Mobile monetization platform,"$618,500,000",Acquired,mopub.com
+32,-,Jan ’12,Oakland,Solar,Brightsource Energy,,"$845,000,000",-,brightsourceenergy.com
+33,-,Jan ’12,Philadelphia,Web Hosting,Comcast,,"$725,000,000",-,comcast.com
+34,,Jan ’12,Palo Alto,Automotive,Tesla Motors,"Electric cars, giant batteries and solar","$823,000,000",IPO,tesla.com
+35,-,Jan ’12,Sunnyvale,Communications Hardware,Aruba Networks,,"$3,030,000,000",Acquired,arubanetworks.com
+36,-,Jan ’12,Atlanta,Credit,Kabbage,,"$600,363,500",Series E,kabbage.com
+37,-,Jan ’12,Houston,Infrastructure,BladeLogic,,"$807,000,000",Acquired,bladelogic.com
+38,,Jan ’12,Mountain View,Networking,LinkedIn,The world's largest professional network,"$26,737,700,000",Acquired,Website
+39,-,Jan ’12,Palo Alto,Software,Danger,,"$618,300,000",Acquired,danger.com
+40,-,Jan ’12,New York City,Flash Sales,Gilt Groupe,Top designers up to 60% off,"$536,000,000",,gilt.com
+41,,Jan ’12,Mountain View,Maps,Google,Leading Search Engine,"$26,025,100,000",IPO,google.com
+42,-,Jan ’12,-,Mobile,Critical Path,,"$1,100,000,000",IPO,criticalpath.net
+43,-,Jan ’12,Indianapolis,Email Marketing,ExactTarget,,"$2,688,210,000",Acquired,email.exacttarget.com
+44,-,Jan ’12,Mountain View,Mobile,Tellme,,"$806,000,000",Acquired,tellme.com
+45,1001-5000,Feb ’13,San Francisco,Music Services,Spotify,"All the music, all the time.","$1,421,640,000",,spotify.com
+46,1001-5000,Sep ’12,Palo Alto,Big Data Analytics,Cloudera,,"$1,176,000,000",,cloudera.com
+47,-,Jan ’12,Cupertino,Open Source,MySQL,,"$1,039,800,000",Acquired,mysql.com
+48,5000+,Sep ’13,San Jose,Databases,PayPal,"The faster, safer way to send money","$1,697,000,000",Acquired,paypal.com
+49,-,Jan ’12,San Francisco,Photo Sharing,Instagram,"Fast, beautiful photo sharing.","$1,057,500,000",Acquired,instagram.com
+50,-,Jan ’12,San Bruno,Online Rental,YouTube,,"$1,661,500,000",Acquired,youtube.com
+51,-,Jan ’12,San Francisco,Networking,Zynga,Play With Your Friends.,"$866,513,000",-,zynga.com
+52,1001-5000,Mar ’13,Palo Alto,Home Renovation,Houzz,,"$763,600,000",Series E,houzz.com
+53,-,Jan ’12,Orem,Advertising,Omniture,,"$1,825,000,000",Acquired,omniture.com
+54,501-1000,Oct ’12,San Francisco,Software,DocuSign,,"$596,500,000",Series E,docusign.com
+55,-,Jan ’12,New York City,Advertising,DoubleClick,,"$1,100,000,000",Acquired,doubleclick.com
+56,-,Sep ’15,Las Vegas,Shoes,Zappos,"Shoes, Clothing, and More","$1,262,750,000",Acquired,zappos.com
+57,-,Jan ’12,Luxembourg,Messaging,Skype,"Talk with anyone, anywhere.","$2,676,600,000",-,skype.com
+58,-,Jan ’12,San Jose,Clean Technology,Bloom Energy,,"$940,000,000",,bloomenergy.com
+59,-,Jan ’12,Baltimore,Mobile Advertising,Millennial Media,,"$1,340,200,000",IPO,millennialmedia.com
+60,1001-5000,Oct ’12,San Francisco,Hotels,Airbnb,Discover amazing places to stay—or rent out your own!,"$10,333,560,000",Series F,airbnb.com
+61,201-500,Jan ’12,Stamford,Vertical Search,KAYAK,Compare hundreds of travel sites at once. #travelproblemsolved,"$2,329,000,000",-,kayak.com
+62,11-50,Aug ’12,San Francisco,Developer Tools,Loggly,Cloud-based log management,"$555,370,000",Acquired,loggly.com
+63,1-10,Feb ’12,San Francisco,MicroBlogging,Twitter,Instant updates from your friends and the world,"$20,660,166,511",,Website
+64,-,Jan ’12,Portland,Surveys,SurveyMonkey,,"$1,500,100,000",,surveymonkey.com
+65,201-500,Jan ’12,North Reading,Robotics,Kiva Systems,Game-changing automation technology for distribution centers,"$786,600,000",Series A,kivasystems.com
+66,-,Jan ’12,Los Angeles,Curated Web,Shopzilla,,"$634,500,000",Acquired,shopzilla.com
+67,-,Jan ’12,Irvine,Automotive,Fisker Automotive,,"$1,450,000,000",Acquired,fiskerautomotive.com
+68,-,Jul ’12,Washington DC,Networking,LivingSocial,We ♥ adding surprise to your calendar.,"$934,700,000",Acquired,livingsocial.com
+69,201-500,Sep ’12,Vancouver,Security,Cisco Umbrella,"Cloud-delivered security on any device, anywhere.","$686,260,000",Acquired,umbrella.cisco.com
+70,201-500,Jan ’12,Berlin,Independent Music Labels,SoundCloud,Share Your Sounds,"$1,280,000,000",,soundcloud.com
+71,,Sep ’13,San Mateo,Email Marketing,Marketo,Leading provider of marketing software,"$1,908,400,000",Acquired,marketo.com
+72,51-200,Mar ’13,San Francisco,Social Media Marketing,Ticketfly,Re-imagining live events,"$537,000,000",Acquired,ticketfly.com
+73,-,Mar ’14,Cambridge,Travel,ITA Software,,"$800,000,000",Acquired,itasoftware.com
+74,1001-5000,Jan ’17,San Francisco,Mobile Advertising,King.com,King is a leading interactive entertainment company for the mobile world.,"$7,443,000,000",,king.com
+75,51-200,Nov ’12,Hamburg,Technology,Kreditech,Consumer Finance Technology Company,"$583,900,000",,kreditech.com
+76,501-1000,Sep ’13,San Francisco,Logistics,DoorDash,On-demand delivery empowering local economies (YC S13),"$756,700,000",Series D,doordash.com
+77,501-1000,Aug ’13,Vancouver,Human Resources,Zenefits,"Introducing the People Platform, because we're in it together.","$583,600,000",Series C,zenefits.com
+78,,Aug ’12,Berlin,Hospitality,Delivery Hero,The easiest way to your favorite food,"$1,299,000,000",IPO,deliveryhero.com
+79,-,Feb ’12,Mountain View,Storage,Pure Storage,Data Storage Cloud company,"$534,856,500",,purestorage.com
+80,1-10,Jul ’12,San Francisco,Risk Management,The Climate Corporation,,"$1,038,900,000",Acquired,climate.com
+81,-,Feb ’12,New York City,Advertising Platforms,AOL,,"$1,000,000,000",,aol.com
+82,,Jan ’12,Palo Alto,Internet of Things,Nest,We make things that work for people.,"$3,280,000,000",Acquired,nest.com
+83,5000+,Jan ’12,Bengaluru,Online Shopping,Flipkart,India's favourite online shopping destination!,"$14,822,140,000",,flipkart.com
+84,,Apr ’12,Los Altos,Flash Storage,Box,,"$564,059,999",,box.com
+85,,Jan ’12,San Francisco,E-Commerce,Wish,,"$1,250,340,000",Series D,wish.com
+86,201-500,Jun ’14,San Francisco,Real Estate,Opendoor,A better way to buy and sell homes,"$644,950,000",,opendoor.com
+87,-,Sep ’12,Redwood City,Health and Wellness,Guardant Health,,"$550,000,000",Series E,guardanthealth.com
+88,11-50,Feb ’12,Boston,Direct Marketing,DraftKings,Single-Day Fantasy Sports Contests for Cash,"$849,400,000",,draftkings.com
+89,201-500,Jul ’13,San Francisco,College Campuses,Lyft,Your friend with a car,"$2,612,500,000",,lyft.com
+90,51-200,Jul ’13,Palo Alto,Personal Finance,Robinhood,Democratizing America’s financial system,"$539,000,000",Series D,robinhood.com
+91,,May ’17,San Francisco,Unified Communication,Slack,Team communication re-imagined,"$1,009,900,000",,slack.com
+92,501-1000,Aug ’15,San Francisco,-,Cruise Automation,Building the world’s best autonomous vehicles,"$1,018,800,000",Acquired,getcruise.com
+93,201-500,Jul ’12,San Francisco,Mobile Payments,Coinbase,The world’s leading exchange for digital currencies,"$1,105,600,000",Series D,coinbase.com
+94,501-1000,Aug ’10,San Francisco,Curated Web,Pinterest,"Discover recipes, home ideas, style inspiration and other ideas to try.","$1,448,500,000",,pinterest.com
+95,11-50,Jan ’12,-,-,SpaceX,,"$1,200,435,000",,spacex.com
+96,201-500,Mar ’13,New York City,Advertising Platforms,Moat,,"$916,500,000",Acquired,moat.com
+97,11-50,Jan ’12,Palo Alto,Analytics,Palantir Technologies,Making products for human-driven analysis of real-world data,"$2,129,200,000",Series B,palantir.com
+98,501-1000,Jun ’14,Tempe,Technology,Oscar Insurance,"Leveraging technology and data to make insurance simple, intuitive, and human.","$727,500,000",,hioscar.com
+99,501-1000,Aug ’12,San Francisco,Video Streaming,Twitch,Social Video for Gamers,"$1,005,000,000",Acquired,twitch.tv
+100,,Jan ’12,Menlo Park,Virtual Reality,Facebook,Bring the world closer together,"$16,012,000,000",Series A,Website
+101,-,Jan ’12,China,Search,Baidu,The Internet in China,"$816,200,000",,baidu.com
+102,-,Jan ’12,Hangzhou,E-Commerce,Alibaba,,"$26,762,000,000",,alibaba.com
+103,5000+,Mar ’15,Chicago,Discounts,Groupon,Daily Deals. Delivered.,"$1,157,000,000",,groupon.com
+104,5000+,Jan ’12,Burlington,Technology,Demandware,Leading on-demand digital commerce solutions provider,"$2,843,100,001",Acquired,demandware.com
+105,-,Jan ’12,South San Francisco,Shopping,Shopping.com,,"$620,000,000",Acquired,shopping.com
+106,201-500,Oct ’12,San Francisco,Mobile Commerce,Braintree,,"$869,500,000",Acquired,braintreepayments.com
+107,-,Jan ’12,Palo Alto,Software,XenSource,,"$538,000,000",Acquired,-
+108,51-200,May ’14,Los Angeles,Video Streaming,Snapchat,"It's about the moment, a connection between friends, and not just a pretty picture","$3,819,085,000",,snapchat.com
+109,-,Jan ’12,Oakland,Search,Ask.com,,"$1,875,000,000",Acquired,ask.com
+110,-,Jan ’12,San Mateo,Career Management,Successfactors,,"$3,400,000,000",Acquired,successfactors.com
+111,-,Jan ’12,San Francisco,Video Streaming,Pure Digital Technologies,,"$658,200,000",Acquired,theflip.com
+112,-,Aug ’16,-,-,Didi Chuxing,,"$820,000,000",,-
+113,-,Jan ’12,Milpitas,Communications Hardware,Fireeye,Complete Protection Against Advanced Malware,"$824,750,000",IPO,fireeye.com
+114,-,Jan ’12,Sunnyvale,Communications Hardware,Ruckus Wireless,,"$11,064,900,000",IPO,ruckuswireless.com
+115,1001-5000,Jan ’12,San Francisco,Networking,Cisco Meraki,"We’re making IT easier, faster, and smarter, with technology that simply works.","$1,280,000,000",Acquired,meraki.cisco.com
+116,-,Jan ’12,Nashua,Storage,Equallogic,,"$1,447,000,000",Series A,equallogic.com
+117,201-500,Jun ’15,Burlington,Enterprise Security,Veracode,Enterprise Application Security,"$728,260,328",Acquired,veracode.com
+118,-,Jan ’12,San Francisco,Software,Macromedia,,"$3,400,000,000",Acquired,adobe.com
+119,-,Jan ’12,San Francisco,Games,IGN Entertainment,,"$700,000,000",Acquired,corp.ign.com
+120,-,Jan ’12,San Jose,Enterprise Software,Interwoven,,"$775,000,000",Acquired,interwoven.com
+121,-,Jan ’12,Seattle,Gambling,Big Fish Games,,"$980,200,000",Acquired,bigfishgames.com
+122,-,Jan ’12,Seoul,E-Commerce,Coupang,,"$1,400,000,000",,coupang.com
+123,-,Mar ’16,Palo Alto,Maps,Waze,"Outsmarting Traffic, Together.","$1,167,000,000",Acquired,waze.com
+124,-,Jan ’12,New York City,Business Services,Everyday Health,,"$722,989,320",Acquired,corporate.everydayhealth.com
+125,-,Jan ’12,Bristol,-,Icera,,"$574,000,000",Acquired,icerasemi.com
+126,-,Jan ’12,Los Angeles,Curated Web,BizRate,,"$525,000,000",Acquired,bizrate.com
+127,-,Jan ’12,San Francisco,E-Commerce,Ebates,,"$1,000,000,000",Acquired,ebates.com
+128,1-10,Oct ’15,Denver,Technology,Xactly,Empowering Companies to Incent Right,"$637,900,000",Acquired,xactlycorp.com
+129,-,Jan ’12,Beijing,Travel,Qunar.com,,"$888,100,000",,qunar.com
+130,-,Jan ’12,San Francisco,Online Shopping,LoopNet,,"$910,000,000",Acquired,loopnet.com
+131,-,Jan ’12,San Mateo,Curated Web,NexTag,,"$1,300,000,000",Acquired,nextag.com
+132,201-500,Feb ’16,Menlo Park,Diagnostics,GRAIL,"Detect cancer early, when it can be cured.","$1,700,000,000",,grail.com
+133,-,Feb ’17,San Jose,Accounting,Intacct,,"$989,800,000",Acquired,intacct.com
+134,-,Aug ’13,Chicago,-,Motorola Mobility,,"$2,910,000,000",Acquired,motorolamobility.com
+135,-,Jan ’12,Beijing,Mobile,Xiaomi,,"$401,847,000,000",,mi.com
+136,-,Jan ’12,Pleasanton,E-Commerce,IronPlanet,,"$853,286,000",Acquired,ironplanet.com.au
+137,-,Aug ’14,Hayward,Biotechnology,Intarcia Therapeutics,,"$690,300,000",Series E,intarcia.com
+138,-,Nov ’17,Mountain View,Security,Symantec,,"$500,000,000",,symantec.com
+139,-,Jan ’12,Los Angeles,Curated Web,Jamdat Mobile,,"$673,600,000",Acquired,eamobile.com
+140,-,Jan ’12,Palo Alto,Developer APIs,Apigee,Free and Enterprise API Management and Infrastructure.,"$792,100,000",Acquired,apigee.com
+141,-,Jan ’12,Jersey City,E-Commerce,Quidsi,,"$540,000,000",Acquired,-
+142,-,Jan ’12,Brisbane,Biotechnology,Bipar Sciences,,"$573,000,000",Acquired,biparsciences.com
+143,-,Jan ’12,New York City,News,iVillage,,"$600,000,000",Acquired,ivillage.com
+144,-,Apr ’12,-,-,Nicira,,"$1,260,000,000",Acquired,
+145,-,Jan ’12,-,-,Compellent Technologies,,"$820,000,000",Acquired,compellent.com
+146,-,Jun ’13,Cupertino,-,Seagate Technology,,"$681,800,000",IPO,seagate.com
+147,-,Jan ’12,San Jose,Games,Legendary Pictures,,"$3,540,000,000",Acquired,legendarypictures.com
+148,-,Jan ’12,Boulder,Enterprise Software,Solidfire,,"$1,020,035,000",,solidfire.com
+149,-,Nov ’15,Mountain View,Apps,MobileIron,,"$1,144,300,000",IPO,mobileiron.com
+150,-,Jan ’12,-,-,AdForce,,"$500,000,000",Acquired,-
+151,-,May ’12,Cambridge,Clean Energy,GreatPoint Energy,,"$562,000,000",Series A,greatpointenergy.com
+152,-,Jan ’12,-,CRM,Siebel Systems,,"$5,850,000,000",Acquired,siebel.com
+153,-,Jul ’14,Beijing,Technology,Qihoo 360 Technology,,"$575,200,000",Series B,360.cn
+154,-,Jan ’12,Sunnyvale,Mobile,Palm,,"$1,300,000,000",Acquired,palm.com
+155,-,Jan ’12,Mountain View,Social Network Media,FriendFeed,,"$4,755,000,000",Acquired,friendfeed.com
+156,-,Jan ’12,Westborough,Batteries,A123 Systems,,"$880,860,000",IPO,a123systems.com
+157,1001-5000,Mar ’15,Pasadena,Search Marketing,GoTo.com (Overture Services),The creator of sponsored search results.,"$1,630,000,000",Acquired,
+158,-,Jan ’12,Milpitas,Technology,Virident Systems,,"$814,677,153",Acquired,virident.com
+159,1001-5000,May ’12,Cerritos,Fashion,Farfetch,,"$741,500,000",,farfetch.com
+160,-,Jan ’12,-,-,GeoCities,,"$2,895,000,000",Acquired,yahoo.geocities.com
+161,-,Jan ’12,Austin,Technology,HomeAway,,"$512,951,458",-,HomeAway.com
+162,-,Jan ’12,San Francisco,Enterprise Software,Cybersource,,"$2,000,000,000",Acquired,cybersource.com
+163,-,Jan ’12,Cupertino,Security,ArcSight,,"$1,526,875,000",Series A,arcsight.com
+164,-,Jan ’12,San Francisco,Reviews and Recommendations,CNET Networks,,"$1,800,000,000",Acquired,cnetnetworks.com
+165,-,Jan ’12,-,-,Kakaotalk,,"$8,000,000,000",IPO,-
+166,-,Dec ’13,Mason,Biotechnology,Assurex Health,,"$520,100,000",,assurexhealth.com
+167,-,Feb ’15,-,-,DiDi Taxi,,"$1,305,000,000",,-
+168,-,Jan ’12,-,-,MySimon,,"$700,000,000",Acquired,-
+169,-,Oct ’13,Boca Raton,-,FriendFinder Networks,,"$551,200,000",Seed,ffn.com
+170,501-1000,Aug ’13,Los Angeles,Curated Web,Compass,Discover home trends in your market,"$748,000,000",Series E,compass.com
+171,-,Jan ’12,New York City,Advertising,Right Media,,"$895,000,000",Acquired,rightmedia.com
+172,-,Jan ’12,Dallas,Music,Broadcast.com,,"$5,040,000,000",Acquired,broadcast.com
+173,-,Jan ’12,Santa Clara,-,Foundry Networks,,"$3,000,000,000",Acquired,foundrynet.com
+174,-,Jan ’12,Indianapolis,Enterprise Software,Aprimo,,"$539,500,000",Acquired,aprimo.com
+175,1-10,Dec ’13,Asia,Startups,Fast Track Asia,Company Builder in Asia,"$2,147,483,647",-,fast-track.asia
+176,-,Jan ’12,Kloten,Mobile,United Mobile,,"$515,000,000",Series B,united-mobile.com
+177,-,Jan ’12,Plano,Networking,Genband,,"$565,500,000",-,genband.com
+178,-,Jul ’12,Carpinteria,Education,lynda.com,,"$1,706,000,000",,lynda.com
+179,-,Jan ’12,Santa Clara,-,WebEx,,"$2,900,000,000",Acquired,webex.com
+180,-,Jan ’12,-,-,GeoCities,,"$2,895,000,000",Acquired,yahoo.geocities.com
+181,-,Jan ’12,Austin,Technology,HomeAway,,"$512,951,458",-,HomeAway.com
+182,-,Jan ’12,San Francisco,Enterprise Software,Cybersource,,"$2,000,000,000",Acquired,cybersource.com
+183,-,Jan ’12,Cupertino,Security,ArcSight,,"$1,526,875,000",Series A,arcsight.com
+184,-,Jan ’12,San Francisco,Reviews and Recommendations,CNET Networks,,"$1,800,000,000",Acquired,cnetnetworks.com
+185,-,Jan ’12,-,-,Kakaotalk,,"$8,000,000,000",IPO,-
+186,-,Dec ’13,Mason,Biotechnology,Assurex Health,,"$520,100,000",,assurexhealth.com
+187,-,Feb ’15,-,-,DiDi Taxi,,"$1,305,000,000",,-
+188,-,Jan ’12,-,-,MySimon,,"$700,000,000",Acquired,-
+189,-,Oct ’13,Boca Raton,-,FriendFinder Networks,,"$551,200,000",Seed,ffn.com
+190,501-1000,Aug ’13,Los Angeles,Curated Web,Compass,Discover home trends in your market,"$748,000,000",Series E,compass.com
+191,-,Jan ’12,New York City,Advertising,Right Media,,"$895,000,000",Acquired,rightmedia.com
+192,-,Jan ’12,Dallas,Music,Broadcast.com,,"$5,040,000,000",Acquired,broadcast.com
+193,-,Jan ’12,Santa Clara,-,Foundry Networks,,"$3,000,000,000",Acquired,foundrynet.com
+194,-,Jan ’12,Indianapolis,Enterprise Software,Aprimo,,"$539,500,000",Acquired,aprimo.com
+195,1-10,Dec ’13,Asia,Startups,Fast Track Asia,Company Builder in Asia,"$2,147,483,647",-,fast-track.asia
+196,-,Jan ’12,Kloten,Mobile,United Mobile,,"$515,000,000",Series B,united-mobile.com
+197,-,Jan ’12,Plano,Networking,Genband,,"$565,500,000",-,genband.com
+198,-,Jul ’12,Carpinteria,Education,lynda.com,,"$1,706,000,000",,lynda.com
+199,-,Jan ’12,Santa Clara,-,WebEx,,"$2,900,000,000",Acquired,webex.com
+200,-,Jan ’12,Sunnyvale,Technology,Proofpoint,,"$2,559,000,000",IPO,proofpoint.com
+201,-,Jan ’12,Redmond,Curated Web,aQuantive,,"$6,400,000,000",Acquired,aquantive.com
+202,-,Aug ’13,-,-,Deepmind Technologies,,"$500,000,000",Acquired,-
+203,501-1000,Apr ’14,Bengaluru,E-Commerce,Myntra (now part of Flipkart),,"$514,162,000",,myntra.com
+204,-,Feb ’13,Chicago Heights,Hospitality,Initiate Systems,,"$581,000,000",Acquired,initiatesystems.com
+205,-,Jan ’12,The Hague,Enterprise Software,O3b Networks,,"$1,347,500,000",-,o3bnetworks.com
+206,-,Jan ’12,Beverly,Biotechnology,SmartCells,,"$505,200,000",-,smartinsulin.com
+207,-,Jan ’12,-,Credit,Bill Me Later,,"$972,400,000",Acquired,billmelater.com
+208,501-1000,Jan ’12,El Segundo,Curated Web,Internet Brands,,"$640,000,000",Acquired,internetdrands.com
+209,-,Jan ’12,Cambridge,-,ATG (Art Technology Group),,"$1,000,000,000",Acquired,atg.com
+210,-,Dec ’14,-,-,ele.me,,"$2,320,000,000",Series E,-
+211,-,Jan ’12,-,-,Mapquest,,"$1,100,000,000",Acquired,mapquest.com
+212,-,Jan ’12,Delhi,E-Commerce,Snapdeal,,"$1,737,700,000",,snapdeal.com
+213,-,Jan ’12,Petaluma,VoIP,Calix,,"$1,100,000,000",IPO,calix.com
+214,-,Jan ’12,Normal,Hardware + Software,Xerox,,"$1,100,000,000",-,xerox.com
+215,501-1000,Dec ’13,Marlborough,Hardware + Software,Netezza,High-performance data warehouse appliances,"$1,700,000,000",Acquired,netezza.com
+216,-,Oct ’16,-,-,Kuaidi Dache,Car Service Company,"$600,000,000",,vvipone.com
+217,-,Jan ’12,Dublin,Career Management,Taleo,,"$1,900,000,000",Acquired,taleo.com
+218,201-500,Nov ’13,London,Software,Improbable,,"$520,000,000",Series B,improbable.io
+219,-,Jan ’12,Massachusetts,Telecommunications,Starent Networks,,"$2,900,000,000",Acquired,starentnetworks.com
+220,-,Jan ’12,Englewood,Web Hosting,WildBlue,,"$618,000,000",Acquired,wildblue.com
+221,201-500,Sep ’13,New York City,Blogging Platforms,Sprinklr,"The only native, seamless social media management system for the global enterprise.","$2,028,500,000",Series E,sprinklr.com
+222,-,Jan ’12,-,-,Trustwave,,"$810,000,000",Acquired,trustwave.com
+223,201-500,Jan ’12,Acton,Networking,Arrowpoint,Equipment that speeds delivery of Web content over the Internet,"$5,700,000,000",IPO,arrowpoint.com
+224,-,Jan ’12,Los Angeles,Analytics,Marketshare,,"$528,000,000",Acquired,marketshare.com
+225,-,Jan ’12,Seattle,Games,PopCap Games,,"$1,329,900,000",-,popcap.com
+226,-,Jan ’12,San Mateo,iPhone,Netsuite,,"$9,300,000,000",Acquired,netsuite.com
+227,-,Dec ’15,-,-,OneWeb,,"$1,700,000,000",,-
+228,201-500,Mar ’16,Santa Monica,Content,Leaf Group,,"$524,639,534",-,leafgroup.com
+229,-,Jan ’12,-,-,Stem Centrx,,"$10,200,000,000",Acquired,-
+230,-,Jan ’12,-,-,Pixar,,"$7,400,000,000",Acquired,pixar.com
+231,-,Jan ’12,Dublin,Software,Sybase,,"$5,800,000,000",Acquired,sybase.com
+232,501-1000,Apr ’16,Santa Monica,Consumer Electronics,Ring,To reduce crime in neighborhoods,"$1,000,000,000",Acquired,ring.com
+233,-,Jan ’12,Madrid,Public Relations,Telefonica,,"$743,000,000",-,telefonica.com
+234,-,Oct ’15,-,-,Kelkoo Sa,,"$576,000,000",Acquired,-
+235,1-10,Feb ’14,Marlborough,Curated Web,3Com,,"$2,700,000,000",Acquired,3com.com
+236,-,Jul ’12,Fremont,Manufacturing,Solyndra,,"$1,567,500,000",Series B,solyndra.com
+237,-,May ’13,-,-,SiByte,,"$2,100,000,000",Acquired,-
+238,-,Jan ’12,Philadelphia,Biotechnology,Avid Radiopharmaceuticals,,"$869,900,000",Acquired,avidrp.com
+239,-,Jan ’12,Plano,Enterprise Software,EDS,,"$2,600,000,000",Acquired,eds.com
+240,-,Mar ’12,-,-,Cyras Systems,,"$1,100,000,000",Acquired,-
+241,-,Sep ’12,-,-,Access Health,,"$1,000,000,000",Acquired,-
+242,-,Jan ’12,-,-,Sandpiper Networks,,"$630,000,000",Acquired,-
+243,-,Feb ’16,Arlington,Software,Applied Predictive Technologies,,"$754,000,000",,predictivetechnologies.com
+244,-,Jun ’16,-,-,Meituan-Dianping,,"$3,300,000,000",,
+245,5000+,Jan ’16,Washington DC,Professional Services,Booz Allen Hamilton,,"$2,778,000,000",IPO,boozallen.com
+246,-,Aug ’12,-,-,Renren.com,,"$734,000,000",IPO,-
+247,201-500,Jan ’16,Istanbul,E-Commerce,YemekSepeti.com,Turkey's first online food ordering site.,"$589,000,000",Acquired,yemeksepeti.com
+248,-,Aug ’13,Mountain View,Messaging,WhatsApp,Simple. Personal. Real Time Messaging.,"$19,000,000,000",Acquired,whatsapp.com
+249,-,Jan ’12,New York City,Advertising,24/7 Real Media,,"$649,000,000",Acquired,247realmedia.com
+250,-,Jan ’12,Santa Clara,Software,Rovi,,"$1,100,000,000",Acquired,rovicorp.com
+251,-,Mar ’13,-,-,Ability Network,,"$550,000,000",,-
+252,-,Jan ’12,-,-,Sierra Online,,"$1,500,000,000",Acquired,
+253,-,Jan ’12,New York City,Advertising,Mediamind,,"$555,000,000",Acquired,mediamind.com
+254,-,Jan ’12,San Mateo,-,Fast Search & Transfer,,"$1,200,000,000",Acquired,-
+255,-,Jan ’12,Waltham,Software,Novell,,"$2,200,000,000",Acquired,novell.com
+256,-,Jan ’12,Naperville,Public Relations,Tellabs,,"$890,000,000",Acquired,tellabs.com
+257,-,Jan ’12,Santa Clara,Enterprise Software,Data Domain,,"$2,100,000,000",Acquired,datadomain.com
+258,-,Jan ’12,London,Curated Web,Getty Images,,"$2,400,000,000",Acquired,gettyimages.com
+259,-,Aug ’14,Cambridge,Biotechnology,Visterra,,"$503,400,000",Acquired,visterrainc.com
+260,-,Jan ’12,Dallas,Software,I2 Technologies,,"$604,000,000",Acquired,i2.com
+261,-,Sep ’16,-,-,Grab,,"$750,000,000",Series F,
+262,-,Aug ’16,-,-,Sabre,,"$4,300,000,000",IPO,sabre.com
+263,-,Jan ’12,-,-,Signio,,"$1,300,000,000",Acquired,-
+264,-,Sep ’13,-,-,bai brands,,"$1,700,000,000",Acquired,-
+265,-,Jan ’12,Gloucester,Security,MessageLabs,,"$695,000,000",Acquired,messagelabs.com
+266,-,Jan ’12,New York City,Graphics,Marvel Entertainment,,"$4,000,000,000",Acquired,marvel.com
+267,-,Sep ’14,-,-,vIPtela,,"$722,000,000",Acquired,-
+268,-,Feb ’15,-,-,Go-jek,,"$550,000,000",,-
+269,,Jun ’15,-,-,Net2phone,,"$1,400,000,000",Acquired,net2phone.com
+270,-,Mar ’15,Singapore,Ride Sharing,GrabTaxi,"Safe, convenient, and reliable taxi rides for all","$730,000,000",,grabtaxi.com
+271,-,Jan ’12,Mountain View,Semiconductors,NetLogic Microsystems,,"$3,700,000,000",Acquired,netlogicmicro.com
+272,5000+,Jan ’12,Aliso Viejo,B2B,Quest Software,,"$2,400,000,000",Acquired,quest.com
+273,,Aug ’15,-,-,Silknet,Web based customer relationship management software,"$4,279,680,000",Series D,
+274,11-50,Apr ’16,San Francisco,K-12 Education,VIPKID,The leading online education platform for language immersion,"$820,000,000",Series D,vipkid.com.cn
+275,-,Jan ’12,Palo Alto,Clean Technology,Better Place,,"$723,000,000",-,betterplace.com
+276,51-200,Apr ’15,Irvine,Web Development,Ten-X,The most trusted online marketplace making real estate transactions transparent & simple.,"$1,600,000,000",Acquired,ten-x.com
+277,-,Mar ’16,-,-,meituan.com,,"$700,000,000",,-
+278,-,Jan ’12,-,-,Inphonic,,"$800,000,000",IPO,-
+279,-,Jan ’12,Waltham,Clinical Trials,Phase Forward,,"$685,000,000",Acquired,phaseforward.com
+280,-,Jan ’12,Mumbai,E-Commerce,Olacabs,,"$990,500,000",,olacabs.com
+281,-,Jan ’12,-,Security,SafeNet,,"$772,900,000",-,safenet-inc.com
+282,-,Jan ’12,Loveland,Solar,Abound Solar,,"$510,000,000",,abound.com
+283,-,Apr ’15,Brooklyn,Video Streaming,VICE Media,,"$730,000,000",,vice.com
+284,-,Jan ’12,Overland Park,Public Relations,Nextel Communications,,"$35,000,000,000",Acquired,nextel.com
+285,-,Jan ’12,Mountain View,-,Mercury Interactive,,"$4,500,000,000",Acquired,-
+286,-,Jan ’12,Plano,Consulting,Perot Systems,,"$3,900,000,000",Acquired,perotsystems.com
+287,-,Jun ’15,-,-,Sunnova,,"$550,000,000",,-
+288,-,Aug ’14,Palo Alto,Biotechnology,Anacor Pharmaceutical,,"$5,341,500,000",Acquired,anacor.com
+289,-,Jan ’12,Alameda,-,Wind River,,"$884,000,000",Acquired,windriver.com
+290,-,Jun ’14,-,-,Toutiao,,"$1,100,000,000",,toutiao.com
+291,-,Jan ’12,-,-,Mobileye,Vision for Advanced Driver Assistance Systems and autonomous driving,"$15,300,000,000",Acquired,mobileye.com
+292,-,Jan ’12,-,-,Cobalt Networks,,"$2,000,000,000",Acquired,-
+293,201-500,Jun ’15,Hoboken,E-Commerce,Jet.com,members-only shopping club w/best prices on more than 10M products,"$575,000,000",,jet.com
+294,-,Jan ’12,Pleasanton,Enterprise Software,PeopleSoft,,"$10,300,000,000",Acquired,oracle.com
+295,-,Jan ’12,Oakland,Software,GT Nexus,,"$686,800,000",Acquired,gtnexus.com
+296,-,Jan ’12,Barcelona,Enterprise Software,GSI Commerce,,"$2,400,000,000",Acquired,gsicommerce.com
+297,-,Jan ’12,Houston,Software,BMC Software,,"$750,000,000",-,bmc.com
+298,-,Jan ’12,Florham Park,Public Relations,Global Crossing,,"$3,041,000,000",Acquired,globalcrossing.com
+299,-,Jan ’12,Boston,-,Digitas,,"$1,300,000,000",Acquired,digitas.com
+300,-,Jan ’12,Irvine,Hardware + Software,Gateway,,"$710,000,000",Acquired,gateway.com
+301,-,Mar ’15,Westlake Village,Curated Web,Digital Insight,,"$1,350,000,000",Acquired,digitalinsight.com
+302,-,Jan ’12,-,-,Sonic Solutions,,"$720,000,000",Acquired,sonic.com
+303,1001-5000,Jan ’12,Düsseldorf,Technology,trivago,,"$1,001,140,000",Acquired,trivago.com
+304,-,Jan ’12,Oakland,-,iParadigms,,"$752,000,000",Acquired,iparadigms.com
+305,-,Jan ’12,Waltham,Pharmaceuticals,Avila Therapeutics,,"$956,500,000",-,avilatx.com
+306,-,Jan ’12,White Plains,-,AboveNet,,"$1,550,000,000",Acquired,above.net
+307,-,Jan ’12,Chicago,Transportation,Orbitz,,"$1,250,000,000",Acquired,orbitz.com
+308,-,Jun ’15,-,-,Lufax,,"$1,000,000,000",,-
+309,-,Jan ’12,London,Curated Web,Lastminute,,"$1,008,000,000",Acquired,lastminute.com
+310,-,Jan ’12,New York City,Mobile,Verizon,,"$6,592,450,941",-,verizon.com
+311,-,May ’16,-,-,Cainiao,,"$1,540,000,000",,
+312,-,Jan ’12,-,-,P1.CN,,"$735,000,000",Acquired,-
+313,5000+,Dec ’16,Atlanta,Enterprise Security,First Data,Global Commerce Solutions,"$3,500,000,000",IPO,firstdata.com
+314,-,Jan ’12,-,-,Paytm,,"$980,000,000",,-
+315,-,Jun ’13,-,-,Go2Net,,"$4,000,000,000",Acquired,-
+316,-,Jan ’12,-,-,Insight Communications,,"$3,000,000,000",Acquired,myinsight.com
+317,-,Jun ’16,-,-,Yidao Yongche,,"$700,000,000",,
+318,-,Jan ’12,Mountain View,-,Frame Technology,,"$500,000,000",Acquired,-
+319,5000+,Jun ’12,Boston,Pharmaceuticals,Vertex Pharmaceuticals,creates new possibilities in medicine to cure diseases and improve,"$600,400,000",-,vrtx.com
+320,-,Sep ’15,-,-,dianping.com,,"$800,000,000",,-
+321,-,Jul ’12,Dublin,-,Cardinal Health,,"$2,147,483,647",-,cardinal.com
+322,-,May ’16,-,-,Ant Financial,,"$3,500,000,000",,
+323,51-200,Dec ’13,New York City,-,WeWork,,"$5,155,000,000",Seed,wework.com
+324,-,Jan ’12,Milpitas,Semiconductors,Infineon Technologies,,"$1,400,000,000",Acquired,infineon.com
+325,-,May ’16,-,-,Virident,,"$685,000,000",Acquired,-
+326,-,Apr ’15,-,-,MeiTuan,,"$700,000,000",Series D,-
+327,-,Jan ’12,Sunnyvale,Software,Blue Coat Systems,,"$1,300,000,000",Acquired,bluecoat.com
+328,201-500,Jul ’12,Pittsburgh,Networking,FORE Systems,A computer network switching equipment company,"$4,500,000,000",Acquired,
+329,-,Sep ’15,-,-,Global Fashion Group,,"$507,000,000",,-
+330,-,Feb ’12,Los Angeles,Pharmaceuticals,Abraxis BioScience,,"$2,900,000,000",Acquired,abraxisbio.com
+331,1001-5000,Feb ’16,Berlin,Middle East,Careem,Revolutionising transport through the power of technology!,"$560,000,000",Series E,careem.com
+332,-,Jun ’14,Sussex,Local Businesses,Quad/Graphics,,"$1,900,000,000",-,-
+333,-,Jan ’12,-,-,Orange Hotel,,"$530,000,000",Acquired,-
+334,1001-5000,Aug ’13,Fort Lauderdale,Augmented Reality,Magic Leap,Super stealthy AR startup reveals its first product,"$1,887,500,000",Series D,magicleap.com
+335,-,Sep ’14,-,Web Hosting,PAETEC,,"$2,300,000,000",Acquired,paetec.com
+336,-,Jan ’12,Cambridge,Biotechnology,Millennium Pharmaceuticals,,"$8,689,310,000",Acquired,mlnm.com
+337,1001-5000,Nov ’15,Santa Monica,Photo Editing,Meitu,Leading mobile tech company,"$999,000,000",IPO,corp.meitu.com
+338,201-500,Dec ’14,Seattle,-,Double Down Interactive,The wildly popular DoubleDown Casino™ found on Facebook,"$500,000,000",Seed,doubledowninteractive.com
+339,-,Jan ’12,Abingdon,Software,Sophos,,"$830,000,000",Acquired,sophos.com
+340,201-500,May ’14,London,Vertical Search,Momondo Group,Global online travel search & inspiration network,"$680,000,000",,momondogroup.com
+341,-,Jan ’14,Rockville,Games,ZeniMax Online Studios,,"$585,800,000",-,-
+342,-,Jan ’12,San Jose,Security,SonicWALL,,"$717,000,000",Acquired,sonicwall.com
+343,-,Jan ’12,South San Francisco,Biotechnology,Alios Biopharma,,"$1,823,000,000",Acquired,aliosbiopharma.com
+344,11-50,Jan ’16,Monaco,-,Rhodivm Holdings,UHNWI Private Equity Asset Fund,"$775,000,000",Series A,rhodivm.com
+345,-,Jan ’12,Nashua,-,SkillSoft,,"$1,200,000,000",Acquired,skillsoft.com
+346,-,Aug ’13,-,-,SoftLayer,,"$2,000,000,000",Acquired,-
+347,-,May ’12,Santa Clara,-,Lightlogic,,"$800,000,000",Acquired,-
+348,-,Jan ’12,-,-,Active Network,,"$1,000,000,000",IPO,-
+349,-,Mar ’14,Cambridge,Biotechnology,Moderna Therapeutics,,"$674,600,000",,modernatx.com
+350,-,Jan ’12,Herndon,-,Network Solutions,,"$560,800,000",Acquired,networksolutions.com
+351,-,Jan ’12,Little Rock,Public Relations,Alltel,,"$28,100,000,000",Acquired,alltel.com
+352,-,Nov ’12,-,-,BillMeLater,,"$1,000,000,000",Acquired,-
+353,-,Jan ’12,Carlsbad,Technology,Life Technologies,,"$13,600,000,000",Acquired,lifetechnologies.com
+354,-,Jan ’12,Chicago,Software,SPSS,,"$1,200,000,000",Acquired,spss.com
+355,-,May ’13,-,-,SkinnyPop Popcorn,,"$1,600,000,000",Acquired,-
+356,1001-5000,Jul ’14,Africa,Retail,Africa Internet Group,Incubator of African Startups specialized in e-commerce,"$652,000,000",,africainternetgroup.com
+357,-,Jul ’12,-,-,Trade Me,,"$750,000,000",Acquired,-
+358,-,Jan ’12,Beltsville,Clean Technology,SunEdison,,"$840,800,000",-,sunedison.com
+359,-,Jan ’12,-,Music,Sirius Satellite Radio,,"$1,055,750,000",,sirius.com
+360,501-1000,Aug ’13,Singapore,Online Shopping,Lazada,South-East Asia largest E-commerce,"$1,250,000,000",,lazada.com
+361,-,Jan ’12,Chicago,Ticketing,MovieFone,,"$525,000,000",Acquired,moviefone.com
+362,-,Jan ’12,-,-,Cheyenne Software,,"$1,200,000,000",Acquired,
+363,-,Feb ’12,-,-,Altergaz,,"$500,000,000",Acquired,-
+364,51-200,Aug ’15,-,Semiconductors,Silicon Spice,,"$1,240,000,000",Acquired,
+365,-,Aug ’15,-,-,Oculus | Facebook,,"$2,000,000,000",Acquired,-
+366,-,May ’12,Stamford,-,Charter Communications,,"$3,847,483,647",-,charter.com
+367,1-10,Oct ’14,Amsterdam,Coworking,WeWork,The Community for Creators,"$1,590,000,000",Series G,wework.com
+368,-,Feb ’13,-,-,Evestment,,"$705,000,000",Acquired,-
+369,-,Mar ’15,-,-,twitch.com,,"$970,000,000",Acquired,-
+370,-,Jan ’12,Columbus,-,CoverMyMeds.com,,"$1,100,000,000",Acquired,covermymeds.com
+371,-,Jan ’12,Chelmsford,Web Hosting,Airvana,,"$530,000,000",Acquired,airvana.com
+372,11-50,Jan ’15,Athens,SaaS,Epignosis,eLearning solutions,"$993,660,000",Seed,epignosishq.com
+373,501-1000,Dec ’16,Boston,Databases,Powersoft,"Powersoft's PowerBuilder, was the leader in SQL development tools throughout the 1990's.","$1,040,000,000",IPO,sap.com
+374,-,Jul ’15,-,-,McData,,"$713,000,000",Acquired,-
+375,-,Jul ’14,Cambridge,Healthcare,Alnylam Pharmaceuticals,,"$710,000,000",-,alnylam.com
+376,-,Aug ’14,-,-,Esat Telecom,,"$849,000,000",Acquired,-
+377,-,May ’14,-,-,Sina Weibo,,"$586,000,000",,us.weibo.com
+378,,Oct ’14,Hong Kong,ICT,China Inet,CEO,"$1,020,000,000",Seed,cinllc.com
+379,-,Jan ’12,-,-,Primedia,,"$525,000,000",Acquired,primedia.com
+380,-,May ’13,Boston,Clean Technology,First Wind,,"$522,000,000",-,firstwind.com
+381,51-200,Mar ’17,Chicago,Corporate Wellness,YgEia3,Scientific Wellness testing.,"$553,000,000",Acquired,ygeia3.com
+382,,Jul ’16,-,-,Costom ink,,"$1,000,000,000,000",Series F,
+383,,Feb ’16,Chicago,DOD/Military,Cyberdyne Communcations,wholesale global communcations,"$14,900,000,000",Seed,cynet-internet.com
+384,5000+,Feb ’16,Indore,Auto,ROYAL TAURUS CARS,Specialized Cars Company,"$7,000,000,000",Acquired,rtcars.simdif.com
+385,-,Oct ’12,Manila,Hospitality,Parvenu Alliance Holdings,The next BIG thing in the Philippines,"$2,000,000,000",Seed,None at the moment
+386,-,Jul ’17,-,-,CEB (now Gartner),,"$2,600,000,000",Acquired,-
+387,-,Jul ’17,-,-,Argo AI,Technology that drives a new age of mobility,"$1,000,000,000",Series A,argo.ai
+388,,Feb ’17,-,-,RightNow Technologies - (Acquired by Oracle Corporation),,"$1,500,000,000",Acquired,
+389,-,Nov ’16,-,-,LeShi,,"$600,000,000",,
+390,-,Oct ’16,-,-,ZhongAn,Online insurance,"$931,300,000",,zhongan.com
+391,-,Oct ’16,-,-,MEIZU,Consumer Electronics,"$590,000,000",,meizu.com
+392,-,Aug ’16,-,-,Intime Retail,"Retail department store, shopping, e-commerce.","$692,000,000",,intime.com.cn
+393,-,Aug ’16,-,-,Zhong,,"$931,300,000",,
+394,-,Aug ’16,-,-,Koubei,,"$2,200,000,000",,
+395,-,Jul ’16,-,-,Suning Appliance,,"$4,630,000,000",,
+396,-,Jul ’16,-,-,Encr8 Tor Technologies Sdn Bhd,,"$811,000,000",Acquired,-
+397,-,Jun ’16,-,-,Ola,,"$1,325,000,000",,
+398,-,May ’16,-,-,LeEco,,"$1,080,000,000",,-
+399,-,May ’16,-,-,Didi Kuaidi,,"$3,000,000,000",,
+400,-,May ’16,-,-,LeSports,,"$1,200,000,000",Series B,
+401,1-10,Jan ’16,India,Deals,Paytm Coupons,Coupons Website,"$680,000,000",,paytm.coupons
+402,-,Oct ’15,-,-,Oasis Games,,"$519,000,000",Acquired,-
+403,-,Sep ’14,-,-,Chuck E. Cheese,,"$1,300,000,000",Acquired,-
+404,-,Aug ’14,Westport,Financial Services,Compass Diversified Holdings,,"$725,000,000",-,compasstrust.com
+405,-,Aug ’14,Boston,Clean Technology,Cape Wind,,"$1,200,000,000",-,capewind.org
+406,51-200,Sep ’14,Westford,Communications Infrastructure,Cascade Communications,Builder of compact frame relay communication switches,"$3,700,000,000",Acquired,Website
+407,-,Jul ’14,-,-,Casa Editorial El Tiempo,,"$500,000,000",Acquired,-
+408,-,Nov ’13,Corona,Biotechnology,Watson Pharmaceuticals,,"$500,000,000",-,watson.com
+409,-,Jul ’13,New York City,Health and Wellness,SigmaCare,,"$2,147,483,647",-,sigmacare.com
+410,-,Nov ’12,-,-,Brightstar,,"$1,260,000,000",Acquired,-
+411,-,Jan ’12,-,-,Harcourt / Classroom Connect,,"$4,000,000,000",Acquired,-
+412,-,Jan ’12,Bozeman,-,RightNow Technologies,,"$1,500,000,000",Acquired,rightnow.com
+413,-,Jan ’12,-,-,LifeCell,,"$1,802,940,000",Acquired,lifecell.com
+414,-,Aug ’17,-,-,Cerent,,"$6,900,000,000",Acquired,-
+415,-,Aug ’17,Beijing,Internet of Things,ofo,The world’s leading “station-free” bike-sharing platform,"$2,016,000,000",Series D,ofo.com
+416,-,Feb ’18,-,-,Vivint Smart,,"$2,200,000,000",Acquired,-

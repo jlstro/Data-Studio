@@ -1,0 +1,46 @@
+Style Guide
+
+Headlines: Futura Bold
+Subheads: Mercury Roman, Mercury Semibold, Mercury Bold
+Paragraph Titles: Futura Bold
+Text: Mercury Roman
+Annotations etc.: Futura Book
+
+
+grau
+#4B4B4D
+#6F6F71
+#9C9D9F
+#C5C6C8
+
+petrol
+#013646
+#015764
+#017783
+#0198A1
+
+purple
+#570B56
+#7A0B69
+#E30059
+
+rot-braun
+#700D10
+#940D13
+#EF7F01
+#FDCC03
+
+grün
+#004318
+#016B29
+#6AAF21
+#BCCD02
+
+blau
+#002458
+#01388B
+#0474BC
+#009DE0
+
+
+'#002458', '#01388B', '#0474BC', '#009DE0', '#004318', '#016B29', '#6AAF21', '#BCCD02', '#013646', '#015764', '#017783', '#0198A1', '#570B56', '#7A0B69', '#E30059', '#700D10', '#940D13', '#EF7F01', '#FDCC03'
