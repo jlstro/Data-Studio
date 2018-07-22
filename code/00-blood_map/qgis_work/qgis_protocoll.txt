@@ -1,0 +1,16 @@
+QGIS protocoll
+
+import us_counties_raw.geojson
+change projection
+import donor_centers_geocoded.csv
+import economy_by_counties_clean.csv
+join economy_by_counties_clean and us_counties_raw on county code fields
+change us_counties_raw to 'graduated' with household income as data field (this is just for my overview)
+count points in polygons to find out how many centers in each county, save to file
+select donor_centers_geocoded by position to exclude all outside of us_counties_raw
+create 50-mile-buffer for selected donor_centers_geocoded, save to file
+calculate area of each county in us_counties_raw, save to column
+calculate area of each county that is inside 50-mile-buffer, save to column
+calculate perc of area of each county that is in 50-mile-buffer, save to column
+copy us_counties_raw layer and join all new columns: area, clipped area and number of center
+sexport copied layer to work in pandas
